@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hey! I'm Andrew! 👋
+Currently a 4th year student at the University of Waterloo, pursuing a Double Major in Computer Science and Combinatorics. Graduating April 2021 and looking for new grad roles!
 
+🔭 I’m currently interning at Google on the Cloud Trace team, working on OpenTelemetry Python.
+🌱 Previously interned at CreditKarma, Rippling, Adeptmind and Purolator.
+📫 Reach me at: andrew.a.xue@gmail.com
 <!--
 **AndrewAXue/AndrewAXue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
