@@ -1,5 +1,5 @@
 ### Hey! I'm Andrew! 👋
-Currently a 4th year student at the University of Waterloo, pursuing a Double Major in Computer Science and Combinatorics. Graduating April 2021 and looking for new grad roles!
+Currently a 4th year student at the University of Waterloo, pursuing a Major in Computer Science and Minor in Combinatorics. Graduating April 2021.
 
 - 🔭 Previously interned at Google on the Cloud Trace team, working on [OpenTelemetry Python](https://github.com/open-telemetry/opentelemetry-python). Created the [opentelemtry-exporter-cloud-trace](https://pypi.org/project/opentelemetry-exporter-cloud-trace/) and [opentelemtry-exporter-cloud-monitoring](https://pypi.org/project/opentelemetry-exporter-cloud-monitoring/) packages.
 - 🌱 Previously interned at CreditKarma, Rippling, Adeptmind and Purolator.
