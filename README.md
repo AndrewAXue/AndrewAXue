@@ -1,5 +1,5 @@
 ### Hey! I'm Andrew! 👋
-Currently working as a Software Engineer at Google. University of Waterloo Grad with a Major in Computer Science and Minor in Combinatorics.
+Currently working as a Software Engineer at Google Research on Generative Image Models. University of Waterloo Grad with a Major in Computer Science and Minor in Combinatorics.
 
 - 🔭 Previously interned at Google on the Cloud Trace team, working on [OpenTelemetry Python](https://github.com/open-telemetry/opentelemetry-python). Created the [opentelemtry-exporter-cloud-trace](https://pypi.org/project/opentelemetry-exporter-cloud-trace/) and [opentelemtry-exporter-cloud-monitoring](https://pypi.org/project/opentelemetry-exporter-cloud-monitoring/) packages.
 - 🌱 Previously interned at CreditKarma, Rippling, Adeptmind and Purolator.
